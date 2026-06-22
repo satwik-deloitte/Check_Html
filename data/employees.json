@@ -1,0 +1,15 @@
+[
+  {
+    "firstName": "ABC",
+    "lastName": "XYZ",
+    "employeeId": "1234",
+    "email": "test@deloitte.com",
+    "title": "consultant",
+    "department": "Consulting",
+    "location": "Hyderabad",
+    "startDate": "2025-03-12",
+    "phone": "-",
+    "manager": "-",
+    "id": "1782121049170"
+  }
+]
