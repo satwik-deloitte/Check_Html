@@ -13,16 +13,16 @@
     "id": "1782121049170"
   },
   {
-    "firstName": "CHeck1",
-    "lastName": "CHeck2",
-    "employeeId": "CHeck2",
-    "email": "CHeck2@gamil.com",
-    "title": "CHeck2",
+    "firstName": "check",
+    "lastName": "check",
+    "employeeId": "32739",
+    "email": "check@deloitte.com",
+    "title": "Testing",
     "department": "Technology",
     "location": "Chennai",
     "startDate": "2019-05-06",
     "phone": "1092830999",
-    "manager": "john doe",
+    "manager": "John Doe",
     "id": "1782122025806"
   },
   {
