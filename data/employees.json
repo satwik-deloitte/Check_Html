@@ -18,11 +18,11 @@
     "employeeId": "CHeck2",
     "email": "CHeck2@gamil.com",
     "title": "CHeck2",
-    "department": "",
-    "location": "",
-    "startDate": "",
-    "phone": "",
-    "manager": "",
+    "department": "Technology",
+    "location": "Chennai",
+    "startDate": "2019-05-06",
+    "phone": "1092830999",
+    "manager": "john doe",
     "id": "1782122025806"
   },
   {
